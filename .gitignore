@@ -1,0 +1,16 @@
+# Environnement Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers VS Code
+.vscode/
+
+# Résultats YOLO
+runs/
+
+# Modèle YOLO (optionnel)
+yolov8n.pt
